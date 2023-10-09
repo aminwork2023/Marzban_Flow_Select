@@ -1,10 +1,10 @@
 import requests
 import logging
 
-DOMAIN = 'domain.com'  # Replace with your actual domain
-PORT = 12345  # Replace with the actual port number
-username = 'username' # Replace with your actual username
-password = 'password' # Replace with your actual password
+DOMAIN = 'game-dl-s5.zhina1.ir'  # Replace with your actual domain
+PORT = 8443  # Replace with the actual port number
+username = 'Stark6849' # Replace with your actual username
+password = 'tyJ^v9MHEa7w&5d' # Replace with your actual password
 protocol = 'vless' # Replace with your actual protocol
 flow = "xtls-rprx-vision" # Replace with your actual flow
 
